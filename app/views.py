@@ -4,5 +4,5 @@ def test(request):
     return HttpResponseRedirect
 
 
-def test2(request):
+def test3(request):
     return HttpResponseRedirect
